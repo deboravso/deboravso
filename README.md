@@ -36,6 +36,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/deboravso/deboravso/output/snake.svg" alt="Snake animation" />
-
 ###
